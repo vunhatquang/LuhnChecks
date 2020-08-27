@@ -4,7 +4,7 @@ PURPOSE: This program using Luhn to check if a numbers is valid credit card numb
 
 USE: 
 1. To use this program, you need to open file Luhn 2.jar on the repository. 
-2. Once it is open, you will see a text field to type in the numbers. You should type in the numbers without any space
+2. Once it is open, you will see a text field to type in the numbers. You should type in the numbers without any space or comma or period. For example: 371612019985236
 3. If it is a valid credit card number, then the label below will change to "valid card number".
 
 NOTE: 
